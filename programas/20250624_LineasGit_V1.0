@@ -1,0 +1,18 @@
+# clonación del GIT
+
+git clone https://github.com/tu_usuario/ingreso-desigualdad-kaggle.git
+
+# apertura del proyecto
+
+cd ingreso-desigualdad-kaggle
+code .
+
+# creación de carpetas
+
+mkdir datos cuadernos salidas
+
+# primer commit
+
+git add .
+git commit -m "Estructura inicial del proyecto"
+git push

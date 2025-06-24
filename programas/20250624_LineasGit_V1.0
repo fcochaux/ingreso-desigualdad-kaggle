@@ -14,5 +14,5 @@ mkdir datos cuadernos salidas
 # primer commit
 
 git add .
-git commit -m "Estructura inicial del proyecto"
+git commit -m "Actualización del programa"
 git push

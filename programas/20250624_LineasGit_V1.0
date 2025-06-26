@@ -17,8 +17,6 @@ git add .
 git commit -m "Actualización del programa"
 git push
 
-# adición del mapa
+# instalación de geopandas
 
-git add salidas/mapa_gini.html
-git commit -m "Agrega mapa interactivo del coeficiente de Gini"
-git push
+conda install -c conda-forge geopandas

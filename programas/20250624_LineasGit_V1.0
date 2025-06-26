@@ -16,7 +16,3 @@ mkdir datos cuadernos salidas
 git add .
 git commit -m "Actualización del programa"
 git push
-
-# instalación de geopandas
-
-conda install -c conda-forge geopandas

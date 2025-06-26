@@ -11,8 +11,14 @@ code .
 
 mkdir datos cuadernos salidas
 
-# primer commit
+# commits
 
 git add .
 git commit -m "Actualización del programa"
+git push
+
+# adición del mapa
+
+git add salidas/mapa_gini.html
+git commit -m "Agrega mapa interactivo del coeficiente de Gini"
 git push
